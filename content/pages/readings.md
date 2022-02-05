@@ -57,23 +57,422 @@ Detailed discussion of three-level systems and coherent effects.
 {{< anchor "readings" >}}{{< /anchor >}}Reading Assignments
 -----------------------------------------------------------
 
-| LEC # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} Recent advances in AMO physics {{< br >}}{{< br >}}  | No Readings |
-| 2 | The QED Hamiltonian |  {{< br >}}{{< br >}} Weissbluth, Mitchel. _Photon Atom Interactions._ Academic Press, 1989. ISBN: 9780127436609. \[Preview with [Google Books](http://books.google.com/books?id=7kP9iYEEu4EC&pg=PAfrontcover)\]  {{< br >}}The discussion follows the appendix in Atom-Photon Interactions, pp. 621–43. {{< br >}}{{< br >}} Cohen-Tannoudji, Claude, Jaques Dupont-Roc, and Gilbert Grynberg. "A 500-page derivation and discussion of the basic equations of QED." In _Photons and Atoms - Introduction to Quantum Electrodynamics._ Wiley-VCH, 1997. ISBN: 9780471184331.  {{< br >}}I would recommend consulting this book whenever you want to know more about the "exact" formulation of the theory. I am always amazed how easily you can open this book in the middle and still understand the explanations. {{< br >}}{{< br >}}  |
-| 3 | Quantum description of light |  {{< br >}}{{< br >}} Loudon, Rodney. "Chaotic Light." Chapter 3 in _The Quantum Theory of Light._ 3rd ed. Oxford University Press, 2000. ISBN: 9780198501763. {{< br >}}{{< br >}} Weissbluth, Mitchel. "The Radiation Field up to Squeezing." Chapter 4.4–4.8 in _Photon Atom Interactions._ Academic Press, 1989. ISBN: 9780127436609. {{< br >}}{{< br >}} Vučković, Jelena, David Fattal, et al. "[Enhanced Single-Photon Emission from a Quantum Dot in a Micropost Microcavity](http://dx.doi.org/10.1063/1.1577828)." _Applied Physics Letters_ 82, no. 21 (2003): 3596. {{< br >}}{{< br >}} Kuhn, Axel, Markus Hennrich, et al. "[Deterministic Single-Photon Source for Distributed Quantum Networking](http://dx.doi.org/10.1103/PhysRevLett.89.067901)." _Physcial Review Letters_ 89, no. 6 (2002): 067901 (4 pages). Group Papers (Example of Single Photon g(2)(tau) meas.) {{< br >}}{{< br >}}  |
-| 4 | Non-classical light | {{< h 3 >}}Further Reading{{< /h >}} {{< br >}}{{< br >}} Weissbluth, Mitchel. "Section on Squeezed States." Chapter 4.9 in _Photon Atom Interactions_. Academic Press, 1989. ISBN: 9780127436609. \[Preview with [Google Books](http://books.google.com/books?id=7kP9iYEEu4EC&pg=PAfrontcover)\] {{< br >}}{{< br >}} Kimble, H. J. "Quantum Fluctuations in Quantum Optics." In _Fundamental Systems in Quantum Optics._ Edited by J. Dalibard, J. M. Raimond, and J. Zinn-Justin. Proceeding of the Summer School in Les Houches, Session LIII, 1990. Elsevier, 1992. ISBN: 9780444897367. Extensive and Advanced Treatment of Squeezed Light. {{< br >}}{{< br >}} Henry, R. W., and S. C. Glotzer. "[A Squeezed-State Primer](http://dx.doi.org/10.1119/1.15631)." _American Journal of Physics_ 56, no. 4 (1988): 318.  {{< br >}}Basic discussion using only elementary quantum mechanics. {{< br >}}{{< br >}} Teich, M. C., and B. E. A. Saleh. "[Squeezed and AntiBunched Light](http://dx.doi.org/10.1063/1.881246)." _Physics Today_ 43, no. 6 (1990). Popular article on non-classical light. {{< br >}}{{< br >}} {{< h 3 >}}Generation of Squeezed States, Classical Squeezing{{< /h >}} {{< br >}}{{< br >}} DiFilippo, F., Vasant Natarajan, et al. "[Classical Amplitude Squeezing for Precision Measurements](http://dx.doi.org/10.1103/PhysRevLett.68.2859)." _Physical Review Letters_ 68, no. 19 (1992): 2859–62. {{< br >}}{{< br >}} {{< h 3 >}}Teleportation{{< /h >}} {{< br >}}{{< br >}} Furusawa, A., J. L. Sørensen, et al. "[Unconditional Quantum Teleportation](http://dx.doi.org/10.1126/science.282.5389.706)." _Science_ 282, no. 5389 (1998): 706–9. {{< br >}}{{< br >}} {{< h 3 >}}Beam Splitter and Homodyne Detection{{< /h >}} {{< br >}}{{< br >}} ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[3 pages lecture notes by Wolfgang Ketterle (PDF)]({{< baseurl >}}/resources/mit8_422s13_homodyne_notes) {{< br >}}{{< br >}} Schumaker, B. L. ''[Noise in Homodyne Detection](http://dx.doi.org/10.1364/OL.9.000189)." _Optics Letters_ 9, no. 5 (1984): 189–91. {{< br >}}{{< br >}} {{< h 3 >}}Experiments with Squeezed Light{{< /h >}} {{< br >}}{{< br >}} Wu, Ling-An, H. J. Kimble, et al. "[Generation of Squeezed States by Parametric Down Conversion](http://dx.doi.org/10.1103/PhysRevLett.57.2520)." _Physical Review Letters_ 57, no. 20 (1986): 2520–23. {{< br >}}{{< br >}} Xiao, Min, Ling-An Wu, et al. "[Precision Measurement beyond the Shot-Noise Limit](http://dx.doi.org/10.1103/PhysRevLett.59.278)." _Physical Review Letters_ 59, no. 3 (1987): 278–81. {{< br >}}{{< br >}} Polzik, E. S., J. Carri, et al. "[Spectroscopy with Squeezed Light](http://dx.doi.org/10.1103/PhysRevLett.68.3020)." _Physical Review Letters_ 68, no. 20 (1992): 302–23. {{< br >}}{{< br >}}  |
-| 5 | Single photons | No Readings |
-| 6 | Entangled states | {{< h 3 >}}Entanglement{{< /h >}} {{< br >}}{{< br >}} Sackett, C. A., D. Kielpinski, et al. "[Experimental Entanglement of Four Particles](http://dx.doi.org/10.1038/35005011)." _Nature_ 404 (2000): 256–9. {{< br >}}{{< br >}} Nielsen, Michael A., and Isaac L. Chuang. "Schmidt Decomposition." In _Quantum Computation and Quantum Information_. Cambridge University Press, 2000, pp. 109–17. ISBN: 9780521635035. \[Excerpts\] {{< br >}}{{< br >}}  |
-| 7 | Metrology, shot noise and Heisenberg limit | {{< h 3 >}}Gravitational Wave Detection{{< /h >}} {{< br >}}{{< br >}} Caves, C. M. "[Quantum-Mechanical Noise in an Interferometer](http://dx.doi.org/10.1103/PhysRevD.23.1693)." _Physical Review_ _D_ 23, no. 8 (1981): 1693–708. {{< br >}}{{< br >}} {{< h 3 >}}Heisenberg Limited Interferometry{{< /h >}} {{< br >}}{{< br >}} Giovannetti, Vittorio, Seth Lloyd, et al. "[Quantum-Enhanced Measurements: Beating the Standard Quantum Limit](http://dx.doi.org/10.1126/science.1104149)." _Science_ 306, no. 5700 (2004): 1330–6. preprint quant-ph/0412078 {{< br >}}{{< br >}} {{< h 3 >}}Proposal for Atom Interferometry{{< /h >}} {{< br >}}{{< br >}} Bouyer, P., M. A. Kasevich. "[Heisenberg-Limited Spectroscopy with Degenerate Bose-Einstein Gases](http://dx.doi.org/10.1103/PhysRevA.56.R1083)." _Physical Review A_ 56, no. 2 (1997): R1083–6. {{< br >}}{{< br >}} {{< h 3 >}}Creation of Correlated States with Bose-Einstein Condensates{{< /h >}} {{< br >}}{{< br >}} Vogels, J. M., J. K. Chin, et al. "[Coherent Collisions Between Bose-Einstein Condensates](http://dx.doi.org/10.1103/PhysRevLett.90.030403)." _Physical Review Letters_ 90, no. 3 (2003): 030403 (4 pages). {{< br >}}{{< br >}}  |
-| 8 | g\_2 for atoms and light |  {{< br >}}{{< br >}} Baym, Gordon. _Lectures on Quantum Mechanics_. W. A. Benjamin, 1973, pp. 430–5. ISBN: 9780805306644. {{< br >}}{{< br >}} Yasuda, Masami, and Fujio Shimizu. "[Observation of Two-Atom Correlation of an Ultracold Neon Atomic Beam](http://dx.doi.org/10.1103/PhysRevLett.77.3090)." _Physical Review Letters_ 77, no. 15 (1996): 3090–93.  {{< br >}}PRL on HBT experiment with cold atoms. {{< br >}}{{< br >}} Jeltes, T., J. M. McNamara, et al. "[Comparison of the Hanbury Brown–Twiss Effect for Bosons and Fermions](http://dx.doi.org/10.1038/nature05513)." _Nature_ 445 (2007): 402–5. {{< br >}}{{< br >}}  |
-| 9 | Diagrams for light-atom interactions | Cohen-Tannoudji, Claude, Jaques Dupont-Roc, and Gilbert Grynberg. _Atom-Photon-Interactions, Basic Processes and Applications_. Wiley-VCH, 1998, pp. 15–21, and Complement A\_I. ISBN: 9780471293361. |
-| 10/11 | Van der Waals and Casimir interactions | {{< h 3 >}}Van Der Waals Interaction{{< /h >}} {{< br >}}{{< br >}} Cohen-Tannoudji, Claude, Jaques Dupont-Roc, and Gilbert Grynberg. _Atom-Photon-Interactions, Basic Processes and Applications_. Wiley-VCH, 1998, pp. 118-26. ISBN: 9780471293361. {{< br >}}{{< br >}} ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Four pages course notes from Dan Kleppner (PDF)]({{< baseurl >}}/resources/mit8_422s13_vanderwalinter) {{< br >}}{{< br >}} Spruch, L. "[Retarded, or Casmimir, Long-Range Potentials](http://dx.doi.org/10.1063/1.881043)." _Physics Today_ 39, no. 11 (1986): 37–45. {{< br >}}{{< br >}} {{< h 3 >}}Casimir Interactions{{< /h >}} {{< br >}}{{< br >}} ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture notes WK (PDF)]({{< baseurl >}}/resources/mit8_422s13_casimir_effect) {{< br >}}{{< br >}} Haroche, S. "Cavity Quantum Electrodynamics." In _Fundamental Systems in Quantum Optics_. Proceeding of the Summer School in Les Houches, Session LIII, 1990. Edited by J. Dalibard, J. M. Raimond, and J. Zinn-Justin. Elsevier, 1992. ISBN: 9780444897367. {{< br >}}{{< br >}} Jaffe, R. L. "[Casimir Effect and the Quantum Vacuum](http://dx.doi.org/10.1103/PhysRevD.72.021301)." _Physical Review D_ 72, no. 2 (2005): 021301(R) (5 pages). {{< br >}}{{< br >}}  |
-| 12 | Resonant scattering and radiative corrections |  {{< br >}}{{< br >}} Cohen-Tannoudji, Claude, Jaques Dupont-Roc, and Gilbert Grynberg. Chapter 3 in _Atom-Photon-Interactions, Basic Processes and Applications_. Wiley-VCH, 1998. ISBN: 9780471293361. {{< br >}}{{< br >}} {{< h 3 >}}Further Reading{{< /h >}} {{< br >}}{{< br >}} Dalibard, J., J. Dupont-Roc, et al. "[Vacuum Fluctuations and Radiation Reaction: Identification of Their Respective Contributions](http://dx.doi.org/10.1051/jphys:0198200430110161700)." _Journal de Physique Archives_ 43, no. 11 (1982): 1617–38. {{< br >}}{{< br >}}  |
-| 13/14 | Derivation and solutions of Optical Bloch equations | Cohen-Tannoudji, Claude, Jaques Dupont-Roc, and Gilbert Grynberg. _Atom-Photon-Interactions, Basic Processes and Applications_. Wiley-VCH, 1998, pp. 257–333. ISBN: 9780471293361. And lecture notes. |
-| 15 | Unraveling open quantum systems |  {{< br >}}{{< br >}} Dalibard, Jean, and Yvan Castin. "[Wave Function Approach Dissipative Processes in Quantum Optics](http://dx.doi.org/10.1103/PhysRevLett.68.580)." _Physical Review Letters_ 68, no. 5 (1992): 580–3. {{< br >}}{{< br >}}  |
-| 16/17 | Light forces, dressed atom |  {{< br >}}{{< br >}} Cohen-Tannoudji, Claude, Jaques Dupont-Roc, and Gilbert Grynberg. _Atom-Photon-Interactions, Basic Processes and Applications_. Wiley-VCH, 1998, pp. 370-9. ISBN: 9780471293361. {{< br >}}{{< br >}} Chu, Steven, L. Hollberg, et al. "[Three Demensional Viscous Confinement and Cooling of Atoms by Resonance Radiation Pressure](http://dx.doi.org/10.1103/PhysRevLett.55.48)." _Physical Review Letters_ 55, no. 1 (1985): 48–51. {{< br >}}{{< br >}} Cohen-Tannoudji, Claude. "Atomic Motion in Laser Light." In _Fundamental Systems in Quantum Optics_ (Les Houches), Session LIII, 1990. Edited by J. Dalibard, J. M. Raimond, and J. Zinn Justin. North Holland, 1993, pp. 1–64. ISBN: 9780444897367. (Advanced reading on friction force in a standing wave pp. 34–5.) {{< br >}}{{< br >}} Gordon, J. P., and A. Ashkin. "[Motion of Atoms in Radiation Trap](http://dx.doi.org/10.1103/PhysRevA.21.1606)." _Physical Review A_ 21, no. 5 (1980): 1606–17. {{< br >}}{{< br >}} {{< h 3 >}}Dressed Atom and Dipole Forces{{< /h >}} {{< br >}}{{< br >}} Cohen-Tannoudji, Claude, Jaques Dupont-Roc, and Gilbert Grynberg. "Worth Reading!" Chapter 4 in _Atom-Photon-Interactions, Basic Processes and Applications_. Wiley-VCH, 1998. ISBN: 9780471293361. {{< br >}}{{< br >}} {{< h 3 >}}Important Paper{{< /h >}} {{< br >}}{{< br >}} Dalibard, J., and C. Cohen-Tannoudji. "[Dressed-Atom Approach to Atomic Motion in Laser Light: the Dipole Force Revisited](http://dx.doi.org/10.1364/JOSAB.2.001707)." _Journal of the Optical Society of America B_ 2, no. 11 (1985): 1707–20. {{< br >}}{{< br >}} {{< h 3 >}}Spontaneous Light Force Traps{{< /h >}} {{< br >}}{{< br >}} Magneto-optical trap, Optical Earnshaw theorem {{< br >}}{{< br >}} Phillips, W. D. "Laser Cooling and Trapping of Neutral Atoms." In _Laser Manipulation of Atoms and Ions,_ Proceedings of the International School of Physics Enrico Fermi, Course CXVIII. Edited by E. Arimondo, W. D. Phillips, and F. Strumia. North-Holland, 1993, pp. 316–55. ISBN: 9780444899934. (has a nice summary on dipole traps and raditation pressure traps) {{< br >}}{{< br >}} {{< h 3 >}}Original Papers{{< /h >}} {{< br >}}{{< br >}} Ashkin, A, and J. P. Gordon. "[Stability of Radiation-Pressure Particle Traps: An Optical Earnshaw Theorem](http://dx.doi.org/10.1364/OL.8.000511)." _Optics Letters_ 8, no. 10 (1983): 511–3. {{< br >}}{{< br >}} Pritchard, D. E., E. L. Raab, et al. "[Light Traps Using Spontaneous Forces](http://dx.doi.org/10.1103/PhysRevLett.57.310)." _Physical Review Letters_ 57, no. 3 (1986): 310–3. {{< br >}}{{< br >}} Raab, E. L., M. Prentiss. "[Trapping of Neutral Sodium Atoms with Radiation Pressure](http://dx.doi.org/10.1103/PhysRevLett.59.2631)." _Physical Review Letters_ 59, no. 23 (1987): 2631–4. {{< br >}}{{< br >}}  |
-| 18 | Techniques for ultralow temperatures | {{< h 3 >}}_Magnetic Trapping_{{< /h >}} {{< br >}}{{< br >}} Further Reading: {{< br >}}{{< br >}} Ketterle, Wolfgang, D. S. Durfee, et al. "Making, Probing and Understanding Bose-Einstein Condensates." In _Bose-Einstein Condensation in Atomic Gases_ (Proceedings of the International School of Physics) "Enrico Fermi", Course CXL. Edited by M. Inguscio, S. Stringari, and C. E. Wieman, IOS Press, 1999, pp. 67–176. ISBN: 9780967335551. \[Preview with [Google Books](http://books.google.com/books?id=OJH1SU0n4dgC&pg=PA67=onepage)\] Relevant pages: pp. 80–9. {{< br >}}{{< br >}} {{< h 3 >}}_Evaporative Cooling_{{< /h >}} {{< br >}}{{< br >}} Further Reading: {{< br >}}{{< br >}} Ketterle, Wolfgang, and N. J. Van Druten. "Evaporative Cooling of Trapped Atoms." _Advances in Atomic Molecular And Optical Physics_ 37 (1986): 181–236. Relevant pages: pp. 181–93. {{< br >}}{{< br >}}  |
-| 19 | Bose gases, BEC, superfluid to Mott insulator transition |  {{< br >}}{{< br >}} Variational derivation of Gross-Pitaevski equation:  {{< br >}}J. Rogel-Salazar. "[The Gross–Pitaevskii Equation and Bose–Einstein Condensate](https://arxiv.org/pdf/1301.2073.pdf)." _European Journal of Physics_ 34, no. 32 (2013): 247–57. {{< br >}}{{< br >}} Pethick, C. J., and H. Smith. _Bose-Einstein Condensation in Dilute Gases_. Cambridge University Press, 2008. ISBN: 9780521846516. {{< br >}}{{< br >}} Selected Pages  {{< br >}}———. "On Bogoliubov Transformation and Collective Excitation." _Bose-Einstein Condensation in Dilute Gases_. Cambridge University Press, 2008, pp. 205–14. ISBN: 9780521846516. {{< br >}}{{< br >}} ———. "On Nonlinear Schrödinger Equation_._" _Bose-Einstein Condensation in Dilute Gases_. Cambridge University Press, 2008, pp. 146–56. ISBN: 9780521846516. {{< br >}}{{< br >}} ———. "On Hydrodynamics." _Bose-Einstein Condensation in Dilute Gases_. Cambridge University Press, 2008, pp. 165–79. ISBN: 9780521846516. {{< br >}}{{< br >}} Mean field theory of the superfluid to Mott insulator transition  {{< br >}}Oosten, D. van, P. van der Straten, et al. "[Quantum phases in an Optical Lattic](http://dx.doi.org/10.1103/PhysRevA.63.053601)." _Physical Review A_ 63, no. 5 (2001): 053601 (12 Pages). {{< br >}}{{< br >}}  |
-| 20 | BEC-BCS crossover in fermions | Ketterle, Wolfgang, and Martin W. Zwierlein. "Making, Probing and Understanding Ultracold Fermi Gases." _Italian Physcial Society,_ no. 5–6 (2008): 247–422. Varenna notes on ultracold fermions. |
-| 21 | Trapped ions and quantum gates |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Recent advances in AMO physics
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+No Readings
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+The QED Hamiltonian
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Weissbluth, Mitchel. _Photon Atom Interactions._ Academic Press, 1989. ISBN: 9780127436609. \[Preview with [Google Books](http://books.google.com/books?id=7kP9iYEEu4EC&pg=PAfrontcover)\]  
+The discussion follows the appendix in Atom-Photon Interactions, pp. 621–43.
+
+Cohen-Tannoudji, Claude, Jaques Dupont-Roc, and Gilbert Grynberg. "A 500-page derivation and discussion of the basic equations of QED." In _Photons and Atoms - Introduction to Quantum Electrodynamics._ Wiley-VCH, 1997. ISBN: 9780471184331.  
+I would recommend consulting this book whenever you want to know more about the "exact" formulation of the theory. I am always amazed how easily you can open this book in the middle and still understand the explanations.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Quantum description of light
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Loudon, Rodney. "Chaotic Light." Chapter 3 in _The Quantum Theory of Light._ 3rd ed. Oxford University Press, 2000. ISBN: 9780198501763.
+
+Weissbluth, Mitchel. "The Radiation Field up to Squeezing." Chapter 4.4–4.8 in _Photon Atom Interactions._ Academic Press, 1989. ISBN: 9780127436609.
+
+Vučković, Jelena, David Fattal, et al. "[Enhanced Single-Photon Emission from a Quantum Dot in a Micropost Microcavity](http://dx.doi.org/10.1063/1.1577828)." _Applied Physics Letters_ 82, no. 21 (2003): 3596.
+
+Kuhn, Axel, Markus Hennrich, et al. "[Deterministic Single-Photon Source for Distributed Quantum Networking](http://dx.doi.org/10.1103/PhysRevLett.89.067901)." _Physcial Review Letters_ 89, no. 6 (2002): 067901 (4 pages). Group Papers (Example of Single Photon g(2)(tau) meas.)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Non-classical light
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Further Reading
+
+Weissbluth, Mitchel. "Section on Squeezed States." Chapter 4.9 in _Photon Atom Interactions_. Academic Press, 1989. ISBN: 9780127436609. \[Preview with [Google Books](http://books.google.com/books?id=7kP9iYEEu4EC&pg=PAfrontcover)\]
+
+Kimble, H. J. "Quantum Fluctuations in Quantum Optics." In _Fundamental Systems in Quantum Optics._ Edited by J. Dalibard, J. M. Raimond, and J. Zinn-Justin. Proceeding of the Summer School in Les Houches, Session LIII, 1990. Elsevier, 1992. ISBN: 9780444897367. Extensive and Advanced Treatment of Squeezed Light.
+
+Henry, R. W., and S. C. Glotzer. "[A Squeezed-State Primer](http://dx.doi.org/10.1119/1.15631)." _American Journal of Physics_ 56, no. 4 (1988): 318.  
+Basic discussion using only elementary quantum mechanics.
+
+Teich, M. C., and B. E. A. Saleh. "[Squeezed and AntiBunched Light](http://dx.doi.org/10.1063/1.881246)." _Physics Today_ 43, no. 6 (1990). Popular article on non-classical light.
+
+### Generation of Squeezed States, Classical Squeezing
+
+DiFilippo, F., Vasant Natarajan, et al. "[Classical Amplitude Squeezing for Precision Measurements](http://dx.doi.org/10.1103/PhysRevLett.68.2859)." _Physical Review Letters_ 68, no. 19 (1992): 2859–62.
+
+### Teleportation
+
+Furusawa, A., J. L. Sørensen, et al. "[Unconditional Quantum Teleportation](http://dx.doi.org/10.1126/science.282.5389.706)." _Science_ 282, no. 5389 (1998): 706–9.
+
+### Beam Splitter and Homodyne Detection
+
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[3 pages lecture notes by Wolfgang Ketterle (PDF)]({{< baseurl >}}/resources/mit8_422s13_homodyne_notes)
+
+Schumaker, B. L. ''[Noise in Homodyne Detection](http://dx.doi.org/10.1364/OL.9.000189)." _Optics Letters_ 9, no. 5 (1984): 189–91.
+
+### Experiments with Squeezed Light
+
+Wu, Ling-An, H. J. Kimble, et al. "[Generation of Squeezed States by Parametric Down Conversion](http://dx.doi.org/10.1103/PhysRevLett.57.2520)." _Physical Review Letters_ 57, no. 20 (1986): 2520–23.
+
+Xiao, Min, Ling-An Wu, et al. "[Precision Measurement beyond the Shot-Noise Limit](http://dx.doi.org/10.1103/PhysRevLett.59.278)." _Physical Review Letters_ 59, no. 3 (1987): 278–81.
+
+Polzik, E. S., J. Carri, et al. "[Spectroscopy with Squeezed Light](http://dx.doi.org/10.1103/PhysRevLett.68.3020)." _Physical Review Letters_ 68, no. 20 (1992): 302–23.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Single photons
+{{< tdclose >}}
+{{< tdopen >}}
+No Readings
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Entangled states
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Entanglement
+
+Sackett, C. A., D. Kielpinski, et al. "[Experimental Entanglement of Four Particles](http://dx.doi.org/10.1038/35005011)." _Nature_ 404 (2000): 256–9.
+
+Nielsen, Michael A., and Isaac L. Chuang. "Schmidt Decomposition." In _Quantum Computation and Quantum Information_. Cambridge University Press, 2000, pp. 109–17. ISBN: 9780521635035. \[Excerpts\]
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Metrology, shot noise and Heisenberg limit
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Gravitational Wave Detection
+
+Caves, C. M. "[Quantum-Mechanical Noise in an Interferometer](http://dx.doi.org/10.1103/PhysRevD.23.1693)." _Physical Review_ _D_ 23, no. 8 (1981): 1693–708.
+
+### Heisenberg Limited Interferometry
+
+Giovannetti, Vittorio, Seth Lloyd, et al. "[Quantum-Enhanced Measurements: Beating the Standard Quantum Limit](http://dx.doi.org/10.1126/science.1104149)." _Science_ 306, no. 5700 (2004): 1330–6. preprint quant-ph/0412078
+
+### Proposal for Atom Interferometry
+
+Bouyer, P., M. A. Kasevich. "[Heisenberg-Limited Spectroscopy with Degenerate Bose-Einstein Gases](http://dx.doi.org/10.1103/PhysRevA.56.R1083)." _Physical Review A_ 56, no. 2 (1997): R1083–6.
+
+### Creation of Correlated States with Bose-Einstein Condensates
+
+Vogels, J. M., J. K. Chin, et al. "[Coherent Collisions Between Bose-Einstein Condensates](http://dx.doi.org/10.1103/PhysRevLett.90.030403)." _Physical Review Letters_ 90, no. 3 (2003): 030403 (4 pages).
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+g\_2 for atoms and light
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Baym, Gordon. _Lectures on Quantum Mechanics_. W. A. Benjamin, 1973, pp. 430–5. ISBN: 9780805306644.
+
+Yasuda, Masami, and Fujio Shimizu. "[Observation of Two-Atom Correlation of an Ultracold Neon Atomic Beam](http://dx.doi.org/10.1103/PhysRevLett.77.3090)." _Physical Review Letters_ 77, no. 15 (1996): 3090–93.  
+PRL on HBT experiment with cold atoms.
+
+Jeltes, T., J. M. McNamara, et al. "[Comparison of the Hanbury Brown–Twiss Effect for Bosons and Fermions](http://dx.doi.org/10.1038/nature05513)." _Nature_ 445 (2007): 402–5.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Diagrams for light-atom interactions
+{{< tdclose >}}
+{{< tdopen >}}
+Cohen-Tannoudji, Claude, Jaques Dupont-Roc, and Gilbert Grynberg. _Atom-Photon-Interactions, Basic Processes and Applications_. Wiley-VCH, 1998, pp. 15–21, and Complement A\_I. ISBN: 9780471293361.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10/11
+{{< tdclose >}}
+{{< tdopen >}}
+Van der Waals and Casimir interactions
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Van Der Waals Interaction
+
+Cohen-Tannoudji, Claude, Jaques Dupont-Roc, and Gilbert Grynberg. _Atom-Photon-Interactions, Basic Processes and Applications_. Wiley-VCH, 1998, pp. 118-26. ISBN: 9780471293361.
+
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Four pages course notes from Dan Kleppner (PDF)]({{< baseurl >}}/resources/mit8_422s13_vanderwalinter)
+
+Spruch, L. "[Retarded, or Casmimir, Long-Range Potentials](http://dx.doi.org/10.1063/1.881043)." _Physics Today_ 39, no. 11 (1986): 37–45.
+
+### Casimir Interactions
+
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture notes WK (PDF)]({{< baseurl >}}/resources/mit8_422s13_casimir_effect)
+
+Haroche, S. "Cavity Quantum Electrodynamics." In _Fundamental Systems in Quantum Optics_. Proceeding of the Summer School in Les Houches, Session LIII, 1990. Edited by J. Dalibard, J. M. Raimond, and J. Zinn-Justin. Elsevier, 1992. ISBN: 9780444897367.
+
+Jaffe, R. L. "[Casimir Effect and the Quantum Vacuum](http://dx.doi.org/10.1103/PhysRevD.72.021301)." _Physical Review D_ 72, no. 2 (2005): 021301(R) (5 pages).
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Resonant scattering and radiative corrections
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Cohen-Tannoudji, Claude, Jaques Dupont-Roc, and Gilbert Grynberg. Chapter 3 in _Atom-Photon-Interactions, Basic Processes and Applications_. Wiley-VCH, 1998. ISBN: 9780471293361.
+
+### Further Reading
+
+Dalibard, J., J. Dupont-Roc, et al. "[Vacuum Fluctuations and Radiation Reaction: Identification of Their Respective Contributions](http://dx.doi.org/10.1051/jphys:0198200430110161700)." _Journal de Physique Archives_ 43, no. 11 (1982): 1617–38.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13/14
+{{< tdclose >}}
+{{< tdopen >}}
+Derivation and solutions of Optical Bloch equations
+{{< tdclose >}}
+{{< tdopen >}}
+Cohen-Tannoudji, Claude, Jaques Dupont-Roc, and Gilbert Grynberg. _Atom-Photon-Interactions, Basic Processes and Applications_. Wiley-VCH, 1998, pp. 257–333. ISBN: 9780471293361. And lecture notes.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Unraveling open quantum systems
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Dalibard, Jean, and Yvan Castin. "[Wave Function Approach Dissipative Processes in Quantum Optics](http://dx.doi.org/10.1103/PhysRevLett.68.580)." _Physical Review Letters_ 68, no. 5 (1992): 580–3.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16/17
+{{< tdclose >}}
+{{< tdopen >}}
+Light forces, dressed atom
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Cohen-Tannoudji, Claude, Jaques Dupont-Roc, and Gilbert Grynberg. _Atom-Photon-Interactions, Basic Processes and Applications_. Wiley-VCH, 1998, pp. 370-9. ISBN: 9780471293361.
+
+Chu, Steven, L. Hollberg, et al. "[Three Demensional Viscous Confinement and Cooling of Atoms by Resonance Radiation Pressure](http://dx.doi.org/10.1103/PhysRevLett.55.48)." _Physical Review Letters_ 55, no. 1 (1985): 48–51.
+
+Cohen-Tannoudji, Claude. "Atomic Motion in Laser Light." In _Fundamental Systems in Quantum Optics_ (Les Houches), Session LIII, 1990. Edited by J. Dalibard, J. M. Raimond, and J. Zinn Justin. North Holland, 1993, pp. 1–64. ISBN: 9780444897367. (Advanced reading on friction force in a standing wave pp. 34–5.)
+
+Gordon, J. P., and A. Ashkin. "[Motion of Atoms in Radiation Trap](http://dx.doi.org/10.1103/PhysRevA.21.1606)." _Physical Review A_ 21, no. 5 (1980): 1606–17.
+
+### Dressed Atom and Dipole Forces
+
+Cohen-Tannoudji, Claude, Jaques Dupont-Roc, and Gilbert Grynberg. "Worth Reading!" Chapter 4 in _Atom-Photon-Interactions, Basic Processes and Applications_. Wiley-VCH, 1998. ISBN: 9780471293361.
+
+### Important Paper
+
+Dalibard, J., and C. Cohen-Tannoudji. "[Dressed-Atom Approach to Atomic Motion in Laser Light: the Dipole Force Revisited](http://dx.doi.org/10.1364/JOSAB.2.001707)." _Journal of the Optical Society of America B_ 2, no. 11 (1985): 1707–20.
+
+### Spontaneous Light Force Traps
+
+Magneto-optical trap, Optical Earnshaw theorem
+
+Phillips, W. D. "Laser Cooling and Trapping of Neutral Atoms." In _Laser Manipulation of Atoms and Ions,_ Proceedings of the International School of Physics Enrico Fermi, Course CXVIII. Edited by E. Arimondo, W. D. Phillips, and F. Strumia. North-Holland, 1993, pp. 316–55. ISBN: 9780444899934. (has a nice summary on dipole traps and raditation pressure traps)
+
+### Original Papers
+
+Ashkin, A, and J. P. Gordon. "[Stability of Radiation-Pressure Particle Traps: An Optical Earnshaw Theorem](http://dx.doi.org/10.1364/OL.8.000511)." _Optics Letters_ 8, no. 10 (1983): 511–3.
+
+Pritchard, D. E., E. L. Raab, et al. "[Light Traps Using Spontaneous Forces](http://dx.doi.org/10.1103/PhysRevLett.57.310)." _Physical Review Letters_ 57, no. 3 (1986): 310–3.
+
+Raab, E. L., M. Prentiss. "[Trapping of Neutral Sodium Atoms with Radiation Pressure](http://dx.doi.org/10.1103/PhysRevLett.59.2631)." _Physical Review Letters_ 59, no. 23 (1987): 2631–4.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Techniques for ultralow temperatures
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### _Magnetic Trapping_
+
+Further Reading:
+
+Ketterle, Wolfgang, D. S. Durfee, et al. "Making, Probing and Understanding Bose-Einstein Condensates." In _Bose-Einstein Condensation in Atomic Gases_ (Proceedings of the International School of Physics) "Enrico Fermi", Course CXL. Edited by M. Inguscio, S. Stringari, and C. E. Wieman, IOS Press, 1999, pp. 67–176. ISBN: 9780967335551. \[Preview with [Google Books](http://books.google.com/books?id=OJH1SU0n4dgC&pg=PA67=onepage)\] Relevant pages: pp. 80–9.
+
+### _Evaporative Cooling_
+
+Further Reading:
+
+Ketterle, Wolfgang, and N. J. Van Druten. "Evaporative Cooling of Trapped Atoms." _Advances in Atomic Molecular And Optical Physics_ 37 (1986): 181–236. Relevant pages: pp. 181–93.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Bose gases, BEC, superfluid to Mott insulator transition
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Variational derivation of Gross-Pitaevski equation:  
+J. Rogel-Salazar. "[The Gross–Pitaevskii Equation and Bose–Einstein Condensate](https://arxiv.org/pdf/1301.2073.pdf)." _European Journal of Physics_ 34, no. 32 (2013): 247–57.
+
+Pethick, C. J., and H. Smith. _Bose-Einstein Condensation in Dilute Gases_. Cambridge University Press, 2008. ISBN: 9780521846516.
+
+Selected Pages  
+———. "On Bogoliubov Transformation and Collective Excitation." _Bose-Einstein Condensation in Dilute Gases_. Cambridge University Press, 2008, pp. 205–14. ISBN: 9780521846516.
+
+———. "On Nonlinear Schrödinger Equation_._" _Bose-Einstein Condensation in Dilute Gases_. Cambridge University Press, 2008, pp. 146–56. ISBN: 9780521846516.
+
+———. "On Hydrodynamics." _Bose-Einstein Condensation in Dilute Gases_. Cambridge University Press, 2008, pp. 165–79. ISBN: 9780521846516.
+
+Mean field theory of the superfluid to Mott insulator transition  
+Oosten, D. van, P. van der Straten, et al. "[Quantum phases in an Optical Lattic](http://dx.doi.org/10.1103/PhysRevA.63.053601)." _Physical Review A_ 63, no. 5 (2001): 053601 (12 Pages).
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+BEC-BCS crossover in fermions
+{{< tdclose >}}
+{{< tdopen >}}
+Ketterle, Wolfgang, and Martin W. Zwierlein. "Making, Probing and Understanding Ultracold Fermi Gases." _Italian Physcial Society,_ no. 5–6 (2008): 247–422. Varenna notes on ultracold fermions.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Trapped ions and quantum gates
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

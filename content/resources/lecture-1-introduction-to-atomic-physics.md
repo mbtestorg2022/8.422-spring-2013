@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 file: null
 resourcetype: Video
-title: "Lecture 1: Introduction to Atomic Physics\t"
+title: 'Lecture 1: Introduction to Atomic Physics '
 uid: 19f42959-a376-eef9-1dfe-07f82e80cf22
 video_files:
   archive_url: http://www.archive.org/download/MIT8.422S13/MIT8_422S13_lec01_300k.mp4
