@@ -162,7 +162,7 @@ Furusawa, A., J. L. Sørensen, et al. "[Unconditional Quantum Teleportation](htt
 
 ### Beam Splitter and Homodyne Detection
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[3 pages lecture notes by Wolfgang Ketterle (PDF)]({{< baseurl >}}/resources/mit8_422s13_homodyne_notes)
+[3 pages lecture notes by Wolfgang Ketterle (PDF)]({{< baseurl >}}/resources/mit8_422s13_homodyne_notes)
 
 Schumaker, B. L. ''[Noise in Homodyne Detection](http://dx.doi.org/10.1364/OL.9.000189)." _Optics Letters_ 9, no. 5 (1984): 189–91.
 
@@ -287,13 +287,13 @@ Van der Waals and Casimir interactions
 
 Cohen-Tannoudji, Claude, Jaques Dupont-Roc, and Gilbert Grynberg. _Atom-Photon-Interactions, Basic Processes and Applications_. Wiley-VCH, 1998, pp. 118-26. ISBN: 9780471293361.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Four pages course notes from Dan Kleppner (PDF)]({{< baseurl >}}/resources/mit8_422s13_vanderwalinter)
+[Four pages course notes from Dan Kleppner (PDF)]({{< baseurl >}}/resources/mit8_422s13_vanderwalinter)
 
 Spruch, L. "[Retarded, or Casmimir, Long-Range Potentials](http://dx.doi.org/10.1063/1.881043)." _Physics Today_ 39, no. 11 (1986): 37–45.
 
 ### Casimir Interactions
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture notes WK (PDF)]({{< baseurl >}}/resources/mit8_422s13_casimir_effect)
+[Lecture notes WK (PDF)]({{< baseurl >}}/resources/mit8_422s13_casimir_effect)
 
 Haroche, S. "Cavity Quantum Electrodynamics." In _Fundamental Systems in Quantum Optics_. Proceeding of the Summer School in Les Houches, Session LIII, 1990. Edited by J. Dalibard, J. M. Raimond, and J. Zinn-Justin. Elsevier, 1992. ISBN: 9780444897367.
 
