@@ -12,7 +12,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Prerequisites
 -------------
 
-_[_8.05 Quantum Physics II_](/courses/8-05-quantum-physics-ii-fall-2013/)_ 
+_[_8.05 Quantum Physics II_](/courses/8-05-quantum-physics-ii-fall-2013)_ 
 
 Main Topics
 -----------
